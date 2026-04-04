@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Cormorant+Garamond:wght@700&display=swap" rel="stylesheet">
+<style>
+    body, html { margin:0; padding:0; width:100vw; height:100vh; overflow:hidden; background:#060609; display:flex; align-items:center; justify-content:center; }
+    .frame { position:relative; width:95%; height:95%; border:1px solid rgba(201,169,110,0.2); display:flex; align-items:center; justify-content:center; }
+    .title-content { text-align:center; display:flex; flex-direction:column; align-items:center; justify-content:center; }
+    
+    /* 110px + 2줄 정렬 + 자간/행간 최적화 */
+    .title-cat { 
+        font-family:'Cormorant Garamond', serif; font-size:110px; color:#F0D8A8; 
+        letter-spacing: 12px; text-indent: 12px; line-height: 1.1; margin-bottom: 25px;
+        text-shadow: 0 10px 40px rgba(0,0,0,0.9);
+    }
+    
+    .title-sub { 
+        font-family:'Playfair Display', serif; font-size:32px; color:#C9A96E; 
+        letter-spacing: 15px; text-indent: 15px; border-top: 1.5px solid rgba(201,169,110,0.4); 
+        padding-top: 25px; white-space: nowrap; display: inline-block; 
+    }
+</style>
+</head>
+<body>
+    <div class="frame">
+        <div class="title-content">
+            <div class="title-cat">FROM THE<br>SUSHI BAR</div>
+            <div class="title-sub">✦ 12 Selections ✦</div>
+        </div>
+    </div>
+</body>
+</html>

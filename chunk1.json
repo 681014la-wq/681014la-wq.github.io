@@ -1,0 +1,352 @@
+[
+  {
+    "category": "Popular",
+    "name": "Beef Teriyaki Bowl(O)",
+    "price": "$16.50",
+    "description": "Grilled beef with teriyaki sauce.",
+    "image_url": "https://img1.wsimg.com/isteam/ip/9f9e1b7c-0b1a-4b1a-9b1a-9b1a9b1a9b1a/beef_bowl.jpg"
+  },
+  {
+    "category": "Popular",
+    "name": "Sashimi Salad(O)",
+    "price": "$20.50",
+    "description": "Assorted sashimi on top of fresh salad.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "Popular",
+    "name": "Grilled Yellowtail Kama(O)",
+    "price": "$12.50",
+    "description": "Grilled yellowtail collar served with ponzu sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "Popular",
+    "name": "Baked Lobster Roll(O)",
+    "price": "$16.00",
+    "description": "Crab, avocado baby lobster on top.",
+    "image_url": "https://img1.wsimg.com/isteam/ip/9f9e1b7c-0b1a-4b1a-9b1a-9b1a9b1a9b1a/baked_lobster.jpg"
+  },
+  {
+    "category": "Popular",
+    "name": "Cucumber Salad(O)",
+    "price": "$6.50",
+    "description": "Fresh cucumber with sweet vinegar dressing.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "Popular",
+    "name": "Gyoza(O)",
+    "price": "$7.50",
+    "description": "Fried pork dumplings with tempura sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Agedashi Tofu(O)",
+    "price": "$10.50",
+    "description": "Lightly fried tofu served with tempura sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Baked Green Mussels(O)",
+    "price": "$9.50",
+    "description": "Green mussels baked with a cream sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Grilled Yellowtail Kama(O)",
+    "price": "$12.50",
+    "description": "Grilled yellowtail collar served with ponzu sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Calamari Tempura(O)",
+    "price": "$12.50",
+    "description": "Lightly breaded and fried calamari.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Diablo Dip(O)",
+    "price": "$14.50",
+    "description": "A spicy blend, typically including cream cheese and a fiery mix of peppers and spices, served as a bold, dip.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Edamame(O)",
+    "price": "$5.50",
+    "description": "Lightly salted steamed soy beans.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Garlic Edamame(O)",
+    "price": "$7.50",
+    "description": "Edamame stir-fried in garlic butter.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Gyoza(O)",
+    "price": "$7.50",
+    "description": "Fried pork dumplings with tempura sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "JooN's Fried Chicken(O)",
+    "price": "$10.50",
+    "description": "Fried chicken wings served with jalapeno oil",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Mix Tempura(O)",
+    "price": "$11.50",
+    "description": "Two pieces of shrimp and seven pieces of vegetable tempura.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Monkey Ball(O)",
+    "price": "$8.50",
+    "description": "Deep-fried mushrooms, stuffed with crab meat.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Mozzarella Sticks(O)",
+    "price": "$7.50",
+    "description": "Deep-fried mozzarella cheese sticks.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Salmon Kama(O)",
+    "price": "$12.50",
+    "description": "Grilled salmon collar served with ponzu sauce",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Shrimp Tempura(O)",
+    "price": "$11.50",
+    "description": "Served with warm tempura sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Soft Shell Crab(O)",
+    "price": "$10.50",
+    "description": "Deep-fried soft shell crab.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Vegetable Egg Roll(O)",
+    "price": "$7.50",
+    "description": "Five pieces. Fried vegetable egg rolls with sweet chili sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "APPETIZERS(O)",
+    "name": "Vegetable Tempura(O)",
+    "price": "$9.50",
+    "description": "Served with warm tempura sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Baked Lobster Roll(O)",
+    "price": "$16.00",
+    "description": "Crab, avocado baby lobster on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Baked Salmon Roll(O)",
+    "price": "$14.00",
+    "description": "Crab, avocado salmon on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Dragon Roll(O)",
+    "price": "$14.00",
+    "description": "Crab, avocado eel and avocado on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Japanese Lasagna Roll(O)",
+    "price": "$10.00",
+    "description": "Crab, avocado cream cheese on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Baked Scallop Roll(O)",
+    "price": "$16.00",
+    "description": "Crab, avocado scallop on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BAKED ROLLS(O)",
+    "name": "Baked Tilapia Roll(O)",
+    "price": "$13.00",
+    "description": "Crab, avocado red tilapia on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Chicken Teriyaki Bowl(O)",
+    "price": "$14.50",
+    "description": "Grilled chicken with teriyaki sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Spicy Pork Bowl(O)",
+    "price": "$15.50",
+    "description": "Marinated pork pan-fried.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Beef Teriyaki Bowl(O)",
+    "price": "$16.50",
+    "description": "Grilled beef with teriyaki sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Sesame Chicken Bowl(O)",
+    "price": "$13.50",
+    "description": "Deep-fried chicken mixed with sesame sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Spicy Chicken Bowl(O)",
+    "price": "$14.50",
+    "description": "Grilled chicken with spicy teriyaki sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Mix Temp Bowl(O)",
+    "price": "$13.50",
+    "description": "2 Pieces Shrimp and 5 Pieces Vegetable",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "BOWLS(O)",
+    "name": "Shrimp Tempura Bowl(O)",
+    "price": "$14.50",
+    "description": "5 Pieces Shrimp",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "COMBINATIONS(O)",
+    "name": "Combo A & B(O)",
+    "price": "$24.00",
+    "description": "Served with miso soup, salad and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "COMBINATIONS(O)",
+    "name": "Combo Any 3 Items(O)",
+    "price": "$28.50",
+    "description": "Served with miso soup, salad and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Chicken Teriyaki Plate(O)",
+    "price": "$16.50",
+    "description": "Grilled chicken with teriyaki sauce. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Salmon Teriyaki Plate(O)",
+    "price": "$18.50",
+    "description": "Grilled salmon with teriyaki sauce. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Korean Short Ribs Plate(O)",
+    "price": "$26.50",
+    "description": "Marinated and grilled Korean BBQ short ribs. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Bulgogi Plate(O)",
+    "price": "$20.50",
+    "description": "Grilled beef with teriyaki sauce. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Spicy Chicken Plate(O)",
+    "price": "$16.50",
+    "description": "Grilled Chicken with spicy teriyaki sauce. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Sesame Chicken Plate(O)",
+    "price": "$16.50",
+    "description": "Deep-fried chicken mixed with sesame sauce. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Shrimp Tempura Plate(O)",
+    "price": "$18.50",
+    "description": "Five pieces of shrimp tempura. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Spicy Pork Plate(O)",
+    "price": "$18.50",
+    "description": "Marinated pork pan-fried. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Vegetable Tempura Plate(O)",
+    "price": "$16.50",
+    "description": "Lightly breaded and fried vegetables. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ENTRÉE(O)",
+    "name": "Mixed Tempura Plate(O)",
+    "price": "$18.50",
+    "description": "Two pieces of shrimp and five pieces of vegetable tempura. Served with miso soup, salad, and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "FRESH ROLLS(O)",
+    "name": "Rainbow Cut Roll(O)",
+    "price": "$13.00",
+    "description": "Crab, avocado, assorted fish on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "FRESH ROLLS(O)",
+    "name": "Pink Lady Cut Roll(O)",
+    "price": "$14.00",
+    "description": "Spicy tuna, salmon on top.",
+    "image_url": "MISSING_IMAGE"
+  }
+]

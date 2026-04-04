@@ -1,0 +1,352 @@
+[
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Mini Sliders",
+    "price": "$8.50",
+    "description": "Three mini burgers served with French fries.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Sesame Chicken",
+    "price": "$8.50",
+    "description": "Sesame chicken served with rice and French fries.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Chicken Nuggets",
+    "price": "$8.50",
+    "description": "Chicken nuggets served with French fries.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Mini Pizza",
+    "price": "$8.50",
+    "description": "Mini cheese pizza served with French fries.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Beef Teriyaki Bowl",
+    "price": "$10.50",
+    "description": "Beef teriyaki served with rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "KID'S MENU(O)",
+    "name": "Kid's Mini Corn Dogs",
+    "price": "$8.50",
+    "description": "Mini corn dogs served with French fries.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "NOODLES(O)",
+    "name": "Chicken Udon",
+    "price": "$14.50",
+    "description": "Japanese noodle soup with chicken and vegetables.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "NOODLES(O)",
+    "name": "Tempura Udon",
+    "price": "$16.50",
+    "description": "Japanese noodle soup with shrimp and vegetable tempura.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "NOODLES(O)",
+    "name": "Udon",
+    "price": "$11.50",
+    "description": "Japanese noodle soup with vegetables.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "NOODLES(O)",
+    "name": "Ramen",
+    "price": "$14.50",
+    "description": "Choice of Miso, Shoyu, or Tonkotsu ramen.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "NOODLES(O)",
+    "name": "Clam Pasta Small",
+    "price": "$9.50",
+    "description": "Udon noodles with clams in a butter cream sauce.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Crunch Roll",
+    "price": "$12.00",
+    "description": "Shrimp tempura, crab, avocado inside; crunch on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "California Roll",
+    "price": "$8.00",
+    "description": "Crab, avocado, and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy Tuna Roll",
+    "price": "$9.50",
+    "description": "Spicy tuna and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy California Roll",
+    "price": "$9.00",
+    "description": "Spicy crab, avocado, and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Philadelphia Roll",
+    "price": "$10.50",
+    "description": "Salmon, avocado, and cream cheese.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spider Roll",
+    "price": "$13.50",
+    "description": "Soft shell crab, crab, avocado, and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Salmon Roll",
+    "price": "$9.00",
+    "description": "Fresh salmon wrapped in seaweed and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Tiger Roll",
+    "price": "$12.00",
+    "description": "Shrimp tempura, crab, avocado inside; shrimp and avocado on top.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy Yellowtail Roll",
+    "price": "$10.50",
+    "description": "Spicy yellowtail and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy Salmon Roll",
+    "price": "$10.00",
+    "description": "Spicy salmon and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Avocado Roll",
+    "price": "$7.00",
+    "description": "Sushi roll prepared with fresh avocado.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Cucumber Roll",
+    "price": "$6.50",
+    "description": "Fresh cucumber wrapped in seaweed and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Albacore Roll",
+    "price": "$10.00",
+    "description": "Fresh albacore wrapped in seaweed and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Yellowtail Roll",
+    "price": "$11.50",
+    "description": "Fresh yellowtail wrapped in seaweed and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Salmon Skin Roll",
+    "price": "$10.00",
+    "description": "Baked salmon skin, cucumber, and gobo.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy Scallop Roll",
+    "price": "$10.50",
+    "description": "Spicy scallop and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Vegetable Roll",
+    "price": "$9.50",
+    "description": "Avocado, cucumber, gobo, sprout, and radish.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Spicy Albacore Roll",
+    "price": "$10.50",
+    "description": "Spicy albacore and cucumber.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Crazy Roll",
+    "price": "$15.50",
+    "description": "Spicy tuna, shrimp tempura, seared tuna on top with fried onion.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Tuna Roll",
+    "price": "$10.50",
+    "description": "Fresh tuna wrapped in seaweed and rice.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Calamari Tempura Roll",
+    "price": "$12.50",
+    "description": "Calamari tempura, crab, and avocado.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "ROLLS(O)",
+    "name": "Scallop Roll",
+    "price": "$10.50",
+    "description": "Scallop, crab, and avocado.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Avocado Salad(O)",
+    "price": "$10.50",
+    "description": "House salad topped with fresh avocados.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Calamari Salad(O)",
+    "price": "$7.50",
+    "description": "Marinated calamari salad.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Cucumber Salad(O)",
+    "price": "$6.50",
+    "description": "Marinated cucumbers with sesame seeds.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Grilled Chicken Salad(O)",
+    "price": "$14.50",
+    "description": "House salad topped with grilled chicken.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Grilled Salmon Salad(O)",
+    "price": "$16.50",
+    "description": "House salad topped with grilled salmon.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "House Salad Small(O)",
+    "price": "$3.50",
+    "description": "Fresh lettuce and spring mix served with house dressing.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Salmon Skin Salad(O)",
+    "price": "$12.50",
+    "description": "House salad topped with salmon skin salad.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Sashimi Salad(O)",
+    "price": "$20.50",
+    "description": "House salad topped with assorted sashimi.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Seaweed Salad(O)",
+    "price": "$7.50",
+    "description": "Japanese seaweed salad.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Tofu Salad(O)",
+    "price": "$8.50",
+    "description": "House salad topped with fresh tofu.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SALADS(O)",
+    "name": "Tuna and Avocado(O)",
+    "price": "$21.50",
+    "description": "Tuna and avocado on mixed greens with light dressing.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "Tuna Sashimi(O)",
+    "price": "$17.50",
+    "description": "Delicate slices of tender, raw tuna.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "Albacore Sashimi(O)",
+    "price": "$16.50",
+    "description": "Thinly sliced albacore tuna, served raw.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "Escolar Sashimi(O)",
+    "price": "$16.50",
+    "description": "Thinly sliced white fish (Escolar), highlighting its delicate texture.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "White Fish Sashimi(O)",
+    "price": "$15.50",
+    "description": "Thinly sliced white fish, simple and fresh.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "Cajun Tuna Sashimi(O)",
+    "price": "$17.50",
+    "description": "Seared tuna with Cajun seasoning.",
+    "image_url": "MISSING_IMAGE"
+  },
+  {
+    "category": "SASHIMI(O)",
+    "name": "Smoked Paprika Salmon Sashimi",
+    "price": "$17.50",
+    "description": "Salmon sashimi seasoned with smoked paprika.",
+    "image_url": "MISSING_IMAGE"
+  }
+]
