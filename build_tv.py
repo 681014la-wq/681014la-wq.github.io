@@ -378,10 +378,10 @@ def build():
                     f'</div>'
                 )
 
-    # 비디오: 1번은 커버 바로 다음, 나머지는 중간중간 균등 배치
+    # 비디오: 1번은 커버 바로 다음, 나머지는 중간중간 균등 배치 (2회 반복 = 6개)
     if video_b64_list:
         video_slides = []
-        for vb64 in video_b64_list:
+        for vb64 in (video_b64_list * 2):
             video_slides.append(
                 f'<div class="slide slide-video" data-accent="#C9A96E" data-atmos="#000000">'
                 f'<video class="vid" src="{vb64}" muted autoplay playsinline preload="auto"></video>'
