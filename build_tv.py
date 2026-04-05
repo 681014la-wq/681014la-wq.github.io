@@ -458,7 +458,7 @@ body{width:100vw;height:100vh;overflow:hidden;background:#060609;color:#F0EDE6;f
 
 /* 비디오 슬라이드 */
 .slide-video{background:#000;justify-content:center;align-items:center;}
-.slide-video .vid{width:100vw;height:100vh;object-fit:cover;}
+.slide-video .vid{width:90vw;height:90vh;object-fit:contain;}
 
 </style>
 </head>
