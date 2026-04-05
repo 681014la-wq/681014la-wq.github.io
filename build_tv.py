@@ -407,7 +407,7 @@ body{width:100vw;height:100vh;overflow:hidden;background:#060609;color:#F0EDE6;f
 .cover-sub{font-size:22px;letter-spacing:18px;color:#C9A96E;opacity:0.8;margin-top:20px;margin-bottom:30px;}
 .cover-line{width:250px;height:1px;background:rgba(201,169,110,0.5);margin:0 auto 30px auto;}
 .cover-addr{font-size:15px;letter-spacing:5px;color:#C9A96E;font-weight:300;}
-.title-cat{font-family:'Cormorant Garamond';font-size:clamp(28px,4vw,52px);letter-spacing:10px;text-transform:uppercase;white-space:nowrap;text-shadow:0 0 40px rgba(0,0,0,0.9),0 0 80px rgba(0,0,0,0.7);}
+.title-cat{font-family:'Cormorant Garamond';font-size:clamp(24px,3.5vw,48px);letter-spacing:clamp(3px,0.8vw,10px);text-transform:uppercase;white-space:nowrap;text-shadow:0 0 40px rgba(0,0,0,0.9),0 0 80px rgba(0,0,0,0.7);}
 .title-sub{font-size:22px;letter-spacing:12px;margin-top:20px;border-top:1.5px solid;padding-top:20px;text-shadow:0 0 20px rgba(0,0,0,0.8);}
 .slide-title{background:#050810;}
 
@@ -448,8 +448,8 @@ body{width:100vw;height:100vh;overflow:hidden;background:#060609;color:#F0EDE6;f
 .slide.active .extra-ko{animation:fadeUp 1.2s ease 1.3s forwards;}
 
 /* 비디오 슬라이드 */
-.slide-video{background:#000;justify-content:center;align-items:center;}
-.slide-video .vid{width:90vw;height:90vh;object-fit:contain;}
+.slide-video{background:#000;justify-content:center;align-items:center;overflow:hidden;}
+.slide-video .vid{max-width:85vw;max-height:85vh;width:auto;height:auto;object-fit:contain;display:block;margin:auto;}
 
 </style>
 </head>
