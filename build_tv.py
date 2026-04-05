@@ -384,7 +384,7 @@ def build():
         for vb64 in video_b64_list:
             video_slides.append(
                 f'<div class="slide slide-video" data-accent="#C9A96E" data-atmos="#000000">'
-                f'<video class="vid" src="{vb64}" muted playsinline preload="auto"></video>'
+                f'<video class="vid" src="{vb64}" muted autoplay playsinline preload="auto"></video>'
                 f'</div>'
             )
         gap = len(slides) // (len(video_slides) + 1)
@@ -463,9 +463,10 @@ body{width:100vw;height:100vh;overflow:hidden;background:#060609;color:#F0EDE6;f
 const slides=document.querySelectorAll('.slide');
 let cur=0, t0=Date.now(), paused=false, videoPlaying=false;
 
-// 비디오 종료 시 다음 슬라이드
+// 비디오 종료/에러 시 다음 슬라이드
 document.querySelectorAll('.slide-video .vid').forEach(v=>{
   v.addEventListener('ended',()=>{videoPlaying=false;show(cur+1);});
+  v.addEventListener('error',()=>{videoPlaying=false;show(cur+1);});
 });
 
 function show(i){
@@ -483,7 +484,10 @@ function show(i){
 
   // 비디오 슬라이드면 자동 재생
   const vid=s.querySelector('.vid');
-  if(vid){videoPlaying=true;vid.currentTime=0;vid.play().catch(()=>{});}
+  if(vid){
+    videoPlaying=true;vid.currentTime=0;
+    vid.play().catch(()=>{videoPlaying=false;t0=Date.now();});
+  }
 }
 function tick(){
   if(!paused && !videoPlaying){
